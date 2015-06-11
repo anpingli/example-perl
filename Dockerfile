@@ -1,4 +1,4 @@
-FROM openshift3_beta/perl-516-rhel7
+FROM openshift/perl-516-rhel7
 USER default
 EXPOSE 8080
 COPY . /opt/openshift/src/
