@@ -10,7 +10,7 @@ print <<EOF
 <head><title>Everything is OK</title></head>
 <body>
 Everything is fine.
-Openshift 3 V3
+Openshfit 2123 V3
 </body>
 </html>
 EOF
