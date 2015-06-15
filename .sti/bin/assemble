@@ -1,4 +1,5 @@
 #!/bin/bash
+
 set -e
 
 echo "---> Installing application source"
@@ -35,4 +36,3 @@ if [ -f "cpanfile" ]; then
 else
   echo "---> No cpanfile found, nothing to install"
 fi
-
