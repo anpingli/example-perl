@@ -9,8 +9,7 @@ print <<EOF
 <html>
 <head><title>Everything is OK</title></head>
 <body>
-Everything is fine.
-Openshfit 2123 V3
+Openshift V3
 </body>
 </html>
 EOF
